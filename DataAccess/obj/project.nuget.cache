@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "elGZ/QeMrn57tIPn4irlikG/oum1Hx6WtRixNB1vHgS7Egm0JRaexKVgEcwGZrEnn3+OLkHa4RoQwkSv4SWZRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\source\\repos\\ReCapProject\\DataAccess\\DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

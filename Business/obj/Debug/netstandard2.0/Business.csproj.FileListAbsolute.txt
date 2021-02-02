@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\ReCapProject\Business\bin\Debug\netstandard2.0\Business.deps.json
+C:\Users\LENOVO\source\repos\ReCapProject\Business\bin\Debug\netstandard2.0\Business.dll
+C:\Users\LENOVO\source\repos\ReCapProject\Business\bin\Debug\netstandard2.0\Business.pdb
+C:\Users\LENOVO\source\repos\ReCapProject\Business\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\LENOVO\source\repos\ReCapProject\Business\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\LENOVO\source\repos\ReCapProject\Business\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\LENOVO\source\repos\ReCapProject\Business\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\LENOVO\source\repos\ReCapProject\Business\obj\Debug\netstandard2.0\Business.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\ReCapProject\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\ReCapProject\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\ReCapProject\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\ReCapProject\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\ReCapProject\Business\obj\Debug\netstandard2.0\Business.dll
+C:\Users\LENOVO\source\repos\ReCapProject\Business\obj\Debug\netstandard2.0\Business.pdb
